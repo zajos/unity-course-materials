@@ -363,6 +363,7 @@
 "Assets/Scripts/CollisionHandler.cs"
 "Assets/Scripts/Controller.cs"
 "Assets/Scripts/Enemy.cs"
+"Assets/Scripts/SelfDestruct.cs"
 "Assets/StarSparrow/Readme/Readme Files/Scripts/ReadmeStarSparrow.cs"
 -langversion:9.0
 
